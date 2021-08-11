@@ -705,6 +705,11 @@
     error-stack-parser "^2.0.0"
     string-width "^2.0.0"
 
+"@types/es6-promise@0.0.32":
+  version "0.0.32"
+  resolved "https://registry.yarnpkg.com/@types/es6-promise/-/es6-promise-0.0.32.tgz#3bcf44fb1e429f3df76188c8c6d874463ba371fd"
+  integrity sha1-O89E+x5Cnz33YYjIxth0Rjujcf0=
+
 "@types/events@*":
   version "3.0.0"
   resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/money-npm/@types/events/-/events-3.0.0.tgz#2862f3f58a9a7f7c3e78d79f130dd4d71c25c2a7"
@@ -2879,6 +2884,11 @@ es-to-primitive@^1.2.0:
     is-callable "^1.1.4"
     is-date-object "^1.0.1"
     is-symbol "^1.0.2"
+
+es6-promise@^4.2.2:
+  version "4.2.8"
+  resolved "https://registry.yarnpkg.com/es6-promise/-/es6-promise-4.2.8.tgz#4eb21594c972bc40553d276e510539143db53e0a"
+  integrity sha512-HJDGx5daxeIvxdBxvG2cb9g4tEvwIk3i8+nhX0yGrYmZUzbkdg8QbDevheDB8gd0//uPj4c1EQua8Q+MViT0/w==
 
 escape-html@~1.0.3:
   version "1.0.3"
@@ -5445,9 +5455,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/money-npm/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -7540,6 +7550,11 @@ vue@^2.6.10:
   version "2.6.10"
   resolved "https://artifactory3-eu1.moneysupermarket.com/artifactory/api/npm/money-npm/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha1-pysaQqTYKnIepDjRtr9V5mGVxjc=
+
+vuex-class@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/vuex-class/-/vuex-class-0.3.2.tgz#c7e96a076c1682137d4d23a8dcfdc63f220e17a8"
+  integrity sha512-m0w7/FMsNcwJgunJeM+wcNaHzK2KX1K1rw2WUQf7Q16ndXHo7pflRyOV/E8795JO/7fstyjH3EgqBI4h4n4qXQ==
 
 vuex@^3.0.1:
   version "3.1.0"
