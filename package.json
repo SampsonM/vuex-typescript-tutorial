@@ -18,9 +18,9 @@
   },
   "devDependencies": {
     "@types/es6-promise": "0.0.32",
-    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.7.0",
-    "@vue/cli-service": "^3.7.0",
+    "@vue/cli-service": "^5.0.8",
     "lint-staged": "^8.1.5",
     "typescript": "^3.4.3",
     "vue-template-compiler": "^2.5.21"
